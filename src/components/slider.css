@@ -1,0 +1,14 @@
+.slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 600px;
+   
+    margin-top:0;
+}
+.slider a span:hover{
+    color: #F6852B;
+}
+.slider .carousel-indicators button{
+    color: #147499;
+}
